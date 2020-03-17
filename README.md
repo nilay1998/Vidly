@@ -5,7 +5,7 @@ This API represents a fictional video rental online service, with CRUD actions f
  - Async / await syntax for all asynchronous code
  - MongoDB / Mongoose
  - Node.js / Express with RESTful routing
- - Request body / request params validation using Joi
+     - Request body / request params validation using Joi
  - Sign up / sign in
  - bcrypt password hashing
  - JSON Web Token supplied upon sign up / sign in and used for authorisation
